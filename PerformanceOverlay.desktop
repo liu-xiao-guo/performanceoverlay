@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PerformanceOverlay
+Exec=qmlscene $@ Main.qml
+Icon=PerformanceOverlay.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

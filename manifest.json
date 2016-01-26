@@ -1,0 +1,17 @@
+{
+    "name": "performanceoverlay.liu-xiao-guo",
+    "description": "description of PerformanceOverlay",
+    "architecture": "all",
+    "title": "PerformanceOverlay",
+    "hooks": {
+        "PerformanceOverlay": {
+            "apparmor": "PerformanceOverlay.apparmor",
+            "desktop":  "PerformanceOverlay.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

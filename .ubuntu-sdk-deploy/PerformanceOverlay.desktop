@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PerformanceOverlay
+Exec=./qtc_device_debughelper.py app "qmlscene $@ Main.qml"
+Icon=PerformanceOverlay.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
